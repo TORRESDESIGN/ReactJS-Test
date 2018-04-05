@@ -3,3 +3,4 @@ just learning here.
 trying to avoid swp files
 changed the git config core.autocrlf true
 to rid of the error message.
+testing123
